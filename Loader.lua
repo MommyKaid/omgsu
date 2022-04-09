@@ -1,7 +1,3 @@
-writefile("thing.txt", "hi")
-getsynasset("thing.txt")
-Cache:Get("test")) -- nil
-
 
 wait(1.2)
 function Callback(answer)
